@@ -25,3 +25,6 @@ pip install pandas
 pip install datetime
 ```
 # 📷 Graph pictures
+
+It is important to remember that this temperature and humidity values are simply mocked via the random lib, and do not represent any real situation, an update to the project would be to add an temperature/humidity sensor via and Arduino/ESP board and send the real values to the client.
+![Graph](graph.png)
